@@ -1,0 +1,589 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"fal",
+				"false_nine-webfont"
+			],
+			[
+				"fa",
+				"false_nine-webfont"
+			],
+			[
+				"fl",
+				"false_nineregular"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"rgb",
+				"rgb()"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"bo",
+				"border-width"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"rg",
+				"rgb()"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"p",
+				"popup"
+			],
+			[
+				"too",
+				"tooltip"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"one",
+				"onetwo"
+			],
+			[
+				"MARGI",
+				"margin-top"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"De",
+				"detail"
+			],
+			[
+				"de",
+				"detail"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"ob",
+				"object-position"
+			],
+			[
+				"navba",
+				"navbar-brand"
+			],
+			[
+				"na",
+				"nav\tTag"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"d",
+				"dashed"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"col-",
+				"col-md-4"
+			],
+			[
+				"w",
+				"weird"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"boot",
+				"bootstrap"
+			],
+			[
+				"ora",
+				"ora"
+			],
+			[
+				"borde",
+				"border-style"
+			],
+			[
+				"pin",
+				"pin"
+			],
+			[
+				"coe",
+				"coef"
+			],
+			[
+				"t",
+				"terms"
+			],
+			[
+				"ex",
+				"exp"
+			],
+			[
+				"coef",
+				"coefficient"
+			],
+			[
+				"exp",
+				"exponent"
+			],
+			[
+				"n",
+				"nav\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"bor",
+				"border-bottom-right-radius"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"bord",
+				"border-left"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 138.0,
+		"last_filter": "Package Control: Install Package",
+		"selected_items":
+		[
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/W/My portfolio/index.html",
+		"/E/html udemy/firstpage.html",
+		"/W/SIS/main.html",
+		"/E/html udemy/Bootstrap/galley.html",
+		"/W/SIS/home.css",
+		"/W/SIS/home.html",
+		"/W/drive-download-20180421T063623Z-001/note.html",
+		"/W/drive-download-20180421T063623Z-001/note.css",
+		"/W/SIS/main1.css",
+		"/W/freecodecamp/Tribute page 1/dravid/rahul.html",
+		"/W/My portfolio/hovermenu.css",
+		"/W/My portfolio/home1.css",
+		"/W/My portfolio/home.html",
+		"/W/My portfolio/w3.css",
+		"/E/html udemy/Bootstrap/landing page.css",
+		"/E/html udemy/Bootstrap/landing page.html",
+		"/W/freecodecamp/Tribute page 1/home.html",
+		"/W/freecodecamp/Tribute page 1/home1.css",
+		"/W/freecodecamp/Tribute page 1/dravid/rahul1.css",
+		"/E/git my website/index.html",
+		"/E/Git/India ODI tribute/ho.css",
+		"/E/Git/India ODI tribute/home.html",
+		"/E/git my website/1.html",
+		"/E/Upwork/proposal css and html sync/singlePageTemplate.css",
+		"/E/Upwork/proposal css and html sync/RCSS.html",
+		"/E/udacity front end/keyboard-shortcuts/a.html",
+		"/E/html udemy/css11.css",
+		"/E/html udemy/css1.html",
+		"/E/udacity front end/link-to-a-stylesheet/styles.css",
+		"/E/udacity front end/keyboard-shortcuts/finish.html",
+		"/E/udacity front end/keyboard-shortcuts/start.html",
+		"/E/udacity front end/link-to-a-stylesheet/index.html",
+		"/E/udacity front end/link-to-a-stylesheet/css/styles.css",
+		"/C/Users/adarsha/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/adarsha/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/E/html udemy/javascript/nameage.js",
+		"/E/udacity front end/writing-selectors/index.html",
+		"/C/Users/adarsha/AppData/Roaming/Sublime Text 3/Packages/Themr/ThemrFavorites.sublime-settings",
+		"/E/web designer/roll up panel 271/271LBsite01/CODE/styles.css",
+		"/E/udacity front end/mockup-to-article/mockup-to-article/index.html",
+		"/E/web designer/roll up panel 271/271LBsite01/CODE/code.js",
+		"/C/Users/adarsha/AppData/Roaming/Sublime Text 3/Packages/User/ThemrFavorites.sublime-settings",
+		"/E/udacity front end/cssquiz.html",
+		"/C/Users/adarsha/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/adarsha/Desktop/py4e/loop.py",
+		"/E/udacity front end/1st project.html",
+		"/E/html udemy/photogrid.html",
+		"/E/html udemy/javascript/nameage.html",
+		"/E/udacity front end/figures/index.html",
+		"/E/udacity front end/web-dev-blog/index.html",
+		"/E/udacity front end/tree-to-html/index.html",
+		"/E/web designer/roll up panel 271/271LBsite01/CODE/template.html",
+		"/E/udacity front end/lists/index.html",
+		"/E/udacity front end/headers/index.html",
+		"/E/udacity front end/headers.zip",
+		"/E/html udemy/Bootstrap/galley.css",
+		"/E/html udemy/Bootstrap/gridsystem.html",
+		"/E/html udemy/Bootstrap/07-Image-Gallery/07_Image_Gallery/gallery.md",
+		"/E/html udemy/Bootstrap/check.html",
+		"/E/html udemy/Bootstrap/check,html",
+		"/E/html udemy/Bootstrap/navbar1.css",
+		"/E/html udemy/Bootstrap/navbar.html",
+		"/C/Users/adarsha/Desktop/py4e/second.py",
+		"/C/Users/adarsha/Desktop/py4e/first.py",
+		"/E/c++/list.cpp",
+		"/E/python/first.py",
+		"/C/Users/adarsha/Desktop/polyadd.c",
+		"/E/html udemy/cssexercise1.css",
+		"/E/html udemy/cssexercise.html",
+		"/E/html udemy/09_Selector_Exercise_Starter/priority.cpp",
+		"/E/html udemy/tictactoe.html",
+		"/E/html udemy/photogrid1.css",
+		"/E/html udemy/09_Selector_Exercise_Starter/selectorsExercise.html",
+		"/E/html udemy/09_Selector_Exercise_Starter/selectors.css",
+		"/E/html/css1.html",
+		"/E/html/cssbackgroundblock.html",
+		"/E/html/cssbackgroundblock1.css",
+		"/E/html/css11.css",
+		"/E/html/forms.html",
+		"/E/html/2exercise forms.html",
+		"/E/html/radiobuttons.html",
+		"/E/html/laptop.html",
+		"/E/html/firstpage.html",
+		"/E/html/s.c"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
