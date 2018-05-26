@@ -15,6 +15,18 @@
 		font-size: 80px;
 		margin-top: 250px;
 }
+.tex1
+{
+  color:#40E0D0;
+}
+.tex2
+{
+  color: #800000;
+}
+.tex2:hover ,.tex1:hover
+{
+text-decoration: underline;
+}
 .land
 {
 		font-family: false_nine-webfont;
